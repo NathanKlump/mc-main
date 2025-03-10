@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-04-04 02:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-04-04 02:02:03 +0000",
+      "minecraft:meadow": "2024-04-04 02:02:06 +0000",
+      "minecraft:plains": "2024-04-04 02:02:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-04-04 02:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-04-04 02:02:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
